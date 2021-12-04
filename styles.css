@@ -1,6 +1,8 @@
 body {
     text-align: center;
-    background-color: rgb(180, 173, 173);
+    background-color: rgb(211, 185, 185);
+    font-size: 16px;
+    font-family: Lato, sans-serif;
   }
   h1 {
     text-align: justify center;
@@ -8,7 +10,7 @@ body {
   }
   /* Add a black background color to the top navigation */
   .topnav {
-      background-color: #333;
+      background-color: hsl(72, 19%, 11%);
       overflow: hidden;
     }
     
@@ -33,17 +35,4 @@ body {
       background-color: #93d3b5;
       color: white;
     }
-    
-  
-    body{
-          font-size: 16px;
-          font-family: Lato, sans-serif;
-          background-color: #abb1abed;
-        }
-    .container {
-          max-width: 450px;
-          height: auto;
-          background-color: #efefef;
-          margin: .5% auto;
-          padding-bottom: 1rem;
-          }
+      
